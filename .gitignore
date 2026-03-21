@@ -1,0 +1,5 @@
+xai_env/
+data/
+*.npy
+*.pth
+.kaggle/
